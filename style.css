@@ -2,7 +2,7 @@
     --cs-color: rgb(92, 90, 90);
 }
 
-* {font-family: Arial;}
+* {font-family: comic sans ms;}
 body {
     background-color: black;
     color: mediumpurple;
@@ -24,3 +24,4 @@ body {
     border-radius: 25px;
     padding-top: 20px
 }
+
