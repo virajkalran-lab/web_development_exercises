@@ -10,9 +10,10 @@ body {
 .coming-soon {
     background-color: var(--cs-color);
     display: inline-block;
-    height: 200px;
+    height: 220px;
     margin-top: 0;
     border-radius: 25px;
+    padding: 20px
 }
 
 .btn {
@@ -22,6 +23,6 @@ body {
     width: 150px;
     font-size: large;
     border-radius: 25px;
-    padding-top: 20px
 }
+
 
