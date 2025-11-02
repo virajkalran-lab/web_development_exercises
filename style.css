@@ -7,6 +7,9 @@ body {
     background-color: black;
     color: mediumpurple;
 }
+a:active, a:selection {
+    color: lightblue;
+}
 .coming-soon {
     background-color: var(--cs-color);
     display: inline-block;
@@ -25,6 +28,7 @@ body {
     font-size: large;
     border-radius: 25px;
 }
+
 
 
 
